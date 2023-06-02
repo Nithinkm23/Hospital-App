@@ -18,7 +18,11 @@ router.get("/", (req, res) => {
 //POST
 router.post('/add', (req, res) => {
     console.log(req.body)
-    users.push('');
+    users.push(`{
+        HospitalName: 'Kozhikode Medical College',
+        PatientCount: 450,
+        HospitalLocation: 'Kozhikode'
+      }`);
     res.send(users);
 })
 //UPDATE
