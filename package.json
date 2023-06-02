@@ -1,0 +1,25 @@
+{
+  "name": "hospital-app",
+  "version": "1.0.0",
+  "description": "HOSPITAL APP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hospital",
+    "app",
+    "server",
+    "coding"
+  ],
+  "author": "NITHIN K",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "HospitalName": "TVM Medical College",
+        "PatientCount": 500,
+        "HospitalLocation": "Thiruvananthapuram"
+    },
+    {
+        "HospitalName": "APOLLO",
+        "PatientCount": 400,
+        "HospitalLocation": "CHENNAI"
+    },
+    {
+        "HospitalName": "AMRITHA",
+        "PatientCount": 350,
+        "HospitalLocation": "ERNAKULAM"
+    }
+]
